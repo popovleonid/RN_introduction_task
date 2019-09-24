@@ -9,3 +9,5 @@
 
 Ендпоинт для списка товаров: GET http://my-json-server.typicode.com/popovleonid/fake_catalog/products<br/>
 Для одного товара: GET http://my-json-server.typicode.com/popovleonid/fake_catalog/products/{id}
+
+Если появилась необходимость установки сторонней библиотеки (особенно с нативным кодом), поищи сначала тут https://github.com/react-native-community
