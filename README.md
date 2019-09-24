@@ -4,8 +4,8 @@
 
 Следуй этому гайду по установке и настройке среды, создания первого приложения: https://facebook.github.io/react-native/docs/getting-started (вкладка React Native CLI Quickstart)
 
-Либа для роутинга: https://reactnavigation.org . 
+Либа для роутинга: https://reactnavigation.org<br/>
 Для иконок: https://github.com/oblador/react-native-vector-icons
 
-Ендпоинт для списка товаров: GET http://my-json-server.typicode.com/popovleonid/fake_catalog/products . 
+Ендпоинт для списка товаров: GET http://my-json-server.typicode.com/popovleonid/fake_catalog/products<br/>
 Для одного товара: GET http://my-json-server.typicode.com/popovleonid/fake_catalog/products/{id}
